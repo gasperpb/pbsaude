@@ -1,100 +1,78 @@
-```json
 {
-  "Prefeitura Municipal de São
-Gonçalo do Rio Abaixo/MG 2016": [
-    {
-      "pergunta": "As feridas podem ser classificadas de três formas diferentes: de acordo com a maneira como foram produzidas, de acordo com o grau de contaminação e, ainda, com o comprometimento tecidual[^1^][1]. Nesse sentido, assinale a afirmativa correta.",[^2^][2]
-      "alternativas": [
-        "A) As feridas perfurantes são caracterizadas por grande abertura na pele.",[^3^][3]
-        "B) As feridas contusas são aquelas com margens irregulares como as produzidas por vidro ou arame farpado.",[^4^][4]
-        "C) As feridas laceradas são produzidas por objeto rombo e são caracterizadas por traumatismo das partes moles, hemorragia e edema.",[^5^][5]
-        "D) As feridas incisas ou cirúrgicas são aquelas produzidas por um instrumento cortante[^6^][6]. As feridas limpas geralmente são fechadas por suturas."[^7^][7]
-      ]
-    },
-    {
-      "pergunta": "A administração de medicamentos por via ______________ é segura e não requer técnica estéril na sua preparação; nessa via os medicamentos podem ser na apresentação de ______________ que são absorvidos, principalmente, no estômago e intestino[^8^][8]. Assinale a alternativa que completa correta e sequencialmente a afirmativa anterior.",[^9^][9]
-      "alternativas": [
-        "A) oral / comprimidos",
-        "B) injetável / ampolas",
-        "C) endovenosa / ampolas",
-        "D) intramuscular / cápsulas"
-      ]
-    },
-    {
-      "pergunta": "A cesariana é uma forma de parto realizada através de um ato cirúrgico, no qual é feita uma incisão no abdômen e outra no útero para se chegar ao bebê[^10^][10]. Um parto cesário dura em média 45 minutos a uma hora[^11^][11]. São situações médicas que habitualmente indicam a programação prévia de uma cesariana, EXCETO:",[^12^][12]
-      "alternativas": [
-        "A) Gravidez gemelar.",[^13^][13]
-        "B) Gravidez na adolescência.",[^14^][14]
-        "C) Quando o bebê está na posição errada, de lado ou com a cabeça para cima.",[^15^][15]
-        "D) Quando a placenta está implantada de forma anormal, como nos casos de placenta prévia."
-      ]
-    },
-    {
-      "pergunta": "A gripe H1N1 consiste em uma doença causada por uma mutação do vírus da gripe[^16^][16]. Em 2016 a gripe H1N1 chegou mais cedo ao Brasil[^17^][17]. Em março deste ano o número de casos só no estado de São Paulo superou a quantidade de pessoas doentes em 2015 em todo o país[^18^][18]. Em 2016 uma nova vacina da gripe será lançada na campanha nacional de vacinação contra a gripe, e ela também contemplará a H1N1[^19^][19]. A vacinação normalmente é oferecida na rede pública para pessoas dentro dos grupos de risco[^20^][20]. São considerados grupos de risco, EXCETO:",[^21^][21]
-      "alternativas": [
-        "A) Gestantes.",[^22^][22]
-        "B) Idosos acima de 60 anos.",[^23^][23]
-        "C) Crianças entre seis meses e cinco anos.",[^24^][24]
-        "D) Portadores de doenças crônicas, como diabetes e hipertensão arterial."[^25^][25]
-      ]
-    },
-    {
-      "pergunta": "A febre Chikungunya é uma doença transmitida pelos mosquitos Aedes aegypti e Aedes albopictus[^26^][26]. No Brasil, a circulação do vírus foi identificada pela primeira vez em 2014[^27^][27]. Em relação à febre Chikungunya, assinale a afirmativa INCORRETA.",[^28^][28]
-      "alternativas": [
-        "A) É possível ter chikungunya mais de uma vez.",[^29^][29]
-        "B) Os sintomas iniciam entre dois e doze dias após a picada do mosquito.",[^30^][30]
-        "C) Os principais sintomas são: febre alta de início rápido, dores intensas nas articulações dos pés e mãos, além de dedos, tornozelos e pulsos.",[^31^][31]
-        "D) Chikungunya significa “aqueles que se dobram” em swahili, um dos idiomas da Tanzânia[^32^][32]. Refere-se à aparência curvada dos pacientes que foram atendidos na primeira epidemia documentada, na Tanzânia."[^33^][33]
-      ]
-    },
-    {
-      "pergunta": "Em relação à Legislação do Sistema Único de Saúde, assinale a afirmativa INCORRETA.",[^34^][34]
-      "alternativas": [
-        "A) As instituições privadas poderão participar de forma complementar do Sistema Único de Saúde, segundo diretrizes deste, mediante contrato de direito público ou convênio, exclusivo apenas às entidades filantrópicas e as sem fins lucrativos.",[^35^][35]
-        "B) A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação.",[^36^][36]
-        "C) A lei disporá sobre as condições e os requisitos que facilitem a remoção de órgãos, tecidos e substâncias humanas para fins de transplante, pesquisa e tratamento, bem como coleta, processamento e transfusão de sangue e seus derivados, sendo vedado todo tipo de comercialização.",[^37^][37]
-        "D) São de relevância pública as ações e serviços de saúde, cabendo ao poder público dispor, nos termos da lei, sobre sua regulamentação, fiscalização e controle, devendo sua execução ser feita diretamente ou através de terceiros e, também, por pessoa física ou jurídica de direito privado."[^38^][38]
-      ]
-    },
-    {
-      "pergunta": "A saúde tem como fatores determinantes e condicionantes, entre outros, a alimentação, a moradia, o saneamento básico, o meio ambiente, o trabalho, a renda, a educação, o transporte, o lazer e o acesso aos bens e serviços essenciais; os níveis de saúde da população expressam a organização social e econômica do País[^39^][39]. As ações dispostas anteriormente, se destinam a garantir às pessoas e à coletividade condições de bem-estar",[^40^][40]
-      "alternativas": [
-        "A) físico, mental e social.",[^41^][41]
-        "B) físico, ambiental e social.",[^43^][43]
-        "C) físico, financeiro e mental.",[^42^][42][^41^][41]
-        "D) social, financeiro e ambiental."[^43^][43]
-      ]
-    },
-    {
-      "pergunta": "O tratamento recomendado para os casos sintomáticos de infecção pelo vírus zika é baseado no uso de acetaminofeno (paracetamol) ou dipirona para o controle da febre e da dor[^44^][44]. No caso de erupções pruriginosas, anti-histamínico pode ser prescrito[^45^][45]. NÃO se recomenda o uso de ácido acetilsalicílico e outros anti-inflamatórios, em função do risco aumentado de complicações",[^46^][46]
-      "alternativas": [
-        "A) motoras.",[^47^][47]
-        "B) intestinais.",
-        "C) neurológicas.",[^48^][48]
-        "D) hemorrágicas."
-      ]
-    },
-    {
-      "pergunta": "No Brasil, cerca de sete milhões de pessoas, acima de 18 anos, têm a doença[^49^][49]. Um estudo recente da Sociedade Brasileira de Diabetes aponta que mais de 60% deles não sabem que têm a doença[^50^][50]. Diabetes é causada pela disfunção metabólica crônica decorrente de uma deficiência de insulina – hormônio produzido pelo",[^51^][51]
-      "alternativas": [
-        "A) baço.",
-        "B) útero.",[^52^][52]
-        "C) fígado.",[^53^][53]
-        "D) pâncreas."[^54^][54]
-      ]
-    },
-    {
-      "pergunta": "Pneumonias são provocadas pela penetração de um agente infeccioso ou irritante (bactérias, vírus, fungos e por reações alérgicas) no espaço alveolar, onde ocorre a troca gasosa[^55^][55]. Esse local deve estar sempre muito limpo, livre de substâncias que possam impedir o contato do ar com o sangue[^56^][56]. Provocam pneumonia, EXCETO:",[^57^][57]
-      "alternativas": [
-        "A) Vírus.",[^58^][58]
-        "B) Fungos.",[^59^][59]
-        "C) Refluxo.",[^60^][60]
-        "D) Bactéria."
-      ]
-    }
-  ]
+  "titulo": "Legislação em Saúde",
+  "subtitulo": "Sistema Único de Saúde - SUS",
+  "questao": {
+    "pergunta": "Constituição Federal inclui a saúde como direito de todos e dever do Estado. Qual lei dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "descricao": "Lei Orgânica da Saúde - Lei nº 8.080 de 1990"
+      },
+      {
+        "letra": "B",
+        "descricao": "Lei de Diretrizes e Bases da Educação - Lei nº 9.394 de 1996"
+      },
+      {
+        "letra": "C",
+        "descricao": "Código de Defesa do Consumidor - Lei nº 8.078 de 1990"
+      },
+      {
+        "letra": "D",
+        "descricao": "Estatuto da Criança e do Adolescente - Lei nº 8.069 de 1990"
+      }
+    ]
+  }
 }
-```
+{
+  "titulo": "Sinais vitais",
+  "subtitulo": "Fundamentos e Procedimentos de Enfermagem",
+  "questao": {
+    "pergunta": "O termo bradisfigmia indica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "descricao": "Pulso fino e lento."
+      },
+      {
+        "letra": "B",
+        "descricao": "Pulso fino e taquicárdico."
+      },
+      {
+        "letra": "C",
+        "descricao": "Respiração lenta e rítmica."
+      },
+      {
+        "letra": "D",
+        "descricao": "Pressão arterial maior que 140x90mmHg."
+      }
+    ]
+  }
+},
+{
+  "titulo": "Prefeitura Municipal de São Gonçalo do Rio Abaixo/MG 2016",
+  "subtitulo": "Classificação de Feridas",
+  "questao": {
+    "pergunta": "As feridas podem ser classificadas de três formas diferentes: de acordo com a maneira como foram produzidas, de acordo com o grau de contaminação e, ainda, com o comprometimento tecidual. Nesse sentido, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "descricao": "As feridas perfurantes são caracterizadas por grande abertura na pele."
+      },
+      {
+        "letra": "B",
+        "descricao": "As feridas contusas são aquelas com margens irregulares como as produzidas por vidro ou arame farpado."
+      },
+      {
+        "letra": "C",
+        "descricao": "As feridas laceradas são produzidas por objeto rombo e são caracterizadas por traumatismo das partes moles, hemorragia e edema."
+      },
+      {
+        "letra": "D",
+        "descricao": "As feridas incisas ou cirúrgicas são aquelas produzidas por um instrumento cortante. As feridas limpas geralmente são fechadas por suturas."
+      }
+    ]
+  }
+}
 {
     "pergunta": "Quanto à idade da população podemos considerar “idoso”, segundo a Assembleia Mundial sobre Envelhecimento (Viena-Áustria, 1982), aquele que:",
     "alternativas": [
